@@ -1,2 +1,15 @@
-# de-hw5-scala-spark-jsonreader
-Data engineer. Homework lecture 5. Json reader
+# smirnov_json_reader
+
+*add project short description*
+
+## Accessing the library
+
+*How to access the code*
+
+## Documentation
+
+*A link to the documentation*
+
+## How to contribute
+
+*How others can contribute to the project*
